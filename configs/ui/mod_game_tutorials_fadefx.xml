@@ -1,0 +1,7 @@
+<window>
+	<game_loaded>
+		<item override="add">
+			<function_on_start>ixray_fadefx.start_game_effect</function_on_start>
+		</item>
+	</game_loaded>
+</window>
