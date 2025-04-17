@@ -1,4 +1,6 @@
-# IX-Ray Smooth Fade
+# Smooth Fade (ver 1.0) for IX-Ray Platform
+
+Addon which adds smooth game transition at startup
 
 ## Overview
 
@@ -6,28 +8,66 @@
 
 ## Remarks
 
-> WARNING!
+> [!WARNING]
 >
-> Addon DOES NOT work if enabled in the `-no_intro` key and the `keypress_on_start` console command disabled
+> Supported only on __IX-Ray Platform__!
+>
+> This addon will NOT WORK if the game is launched with `-no_intro` key or if `keypress_on_start` console command is disabled
 
 ## Requirements
 
 Installation:
 
 1. Install original Stalker Call of Pripyat 1.6.02
-2. Install current version of IX-Ray
-3. In root folder of the game create a folder `ixr_addons`
-4. Extract addon archive into the `ixr_addons` folder
-5. Start the game and play
+2. Install current version of IX-Ray (minimum 1.0)
+3. Extract addon archive into the game folder
+4. Start the game and play
 
 Link to the current __IX-Ray__ [release](https://github.com/ixray-team/ixray-1.6-stcop/releases/latest)
 
 ## Contributors
 
-### IX-Ray Team
+- IX-Ray Team
+  - `Drombeys`
 
-- `Drombeys`
+- Community
+  - `_V_O_IN_`
 
-### IX-Ray Community
+## License
 
-- `_V_O_IN_`
+Сontents of this repository are licensed under terms of the __CC BY-NC-SA 4.0__ license unless otherwise specified. See [this](./LICENSE.txt) file for details
+
+## Обзор
+
+Этот аддон добавляет плавные переходы при запуске игры, загрузке сохранения и перемещении между локациями
+
+## Примечаниe
+
+> [!WARNING]
+>
+> Поддерживается только на __IX-Ray Platform__!
+>
+> Этот аддон не будет РАБОТАТЬ, если игра запущена с помощью клавиши `-no_intro` или если консольная команда `keypress_on_start` отключена
+
+## Рекомендации
+
+Установка:
+
+1. Установить оригинальный Stalker Call of Pripyat 1.6.02
+2. Установить актуальную версию IX-Ray (минимальная 1.0)
+3. Распакуйте архив аддона в папку с игрой
+4. Запустите игру и играйте
+
+Ссылка на текущую версию __IX-Ray__ [релиз](https://github.com/ixray-team/ixray-1.6-stcop/releases/latest)
+
+## Контрибьюторы
+
+- Команда IX-Ray
+  - `Drombeys`
+
+- Сообщество
+  - `_V_O_IN_`
+
+## Лицензия
+
+Содержимое этого репозитория лицензировано в соответствии с условиями лицензии __CC BY-NC-SA 4.0__, если не указано иное. Подробности см. в файле [здесь](./LICENSE.txt)
